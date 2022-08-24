@@ -1,6 +1,8 @@
 {
-  "name": "zwhumphrey/github-pkg-demo",
-  "repository": {"url": "git://github.com/zwhumphrey/github-pkg-demo.git"},
+  "name": "@zwhumphrey/github-pkg-demo",
+  "repository": {
+    "url": "git://github.com/zwhumphrey/github-pkg-demo.git"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
